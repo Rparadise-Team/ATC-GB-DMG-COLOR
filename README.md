@@ -41,13 +41,13 @@ To make it more comfortable and intuitive, you can choose by system and core how
 
 ## THEMES
 
-2 themes are included, one in greenish colors simulating a Game Boy DMG and another in color simulating a Game Boy Color. Themes are available in english and spanish.
+2 themes are included, one simulating a Game Boy DMG and another simulating a Game Boy Color. Themes are available in english and spanish.
 
-- ATC DMG THEME
+- ATC DMG THEME: applies to the SimpleMenu environment, applications and application previews.
 
 ![DMG THEME](https://github.com/user-attachments/assets/30b0aea2-9c2f-4bd4-acac-946a22394642)
 
-- ATC COLOR THEME
+- ATC COLOR THEME: applies only to the SimpleMenu environment. Applications and application previews will continue to maintain the DMG look.
 
 ![COLOR THEME](https://github.com/user-attachments/assets/0f138a5d-2594-4643-a200-0a7861a8b728)
 
