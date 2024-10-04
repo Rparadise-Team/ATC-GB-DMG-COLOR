@@ -1,4 +1,4 @@
-![Logo README MD](https://github.com/user-attachments/assets/aa06edfd-4b77-4e8a-9831-dfd6cba43caa)
+![Logo README MD](https://github.com/user-attachments/assets/da710f9e-2a75-4b53-a822-3e2af4ca72c8)
 
 Rparadise presents ATC DMG COLOR, a highly personalized version of the Koriki system so that you have an experience as close as possible to having a GAME BOY / GAME BOY COLOR in your hands.
 
@@ -31,13 +31,13 @@ Something new is the possibility of having 3 types of scrapes and being able to 
 
 Inside the "Roms" folder there is another one called "Imgs" that contains the 3 folders where you have to place the scrapes (cart, cover and imagemix). The scrapes must be placed in their corresponding folder, with the same name as the game and in .png format.
 
-![scraper](https://github.com/user-attachments/assets/60660d67-6370-4ab7-8754-020211177f51)
+![SCRAPER](https://github.com/user-attachments/assets/a0f18307-5845-42bf-a48f-24fa8b9641cf)
 
 ## OVERLAY SELECTOR
 
 To make it more comfortable and intuitive, you can choose by system and core how to view the game screen, maintaining the aspect ratio, with an overlay on the screen or full screen.
 
-![OVERLAYS](https://github.com/user-attachments/assets/607b961f-e973-402b-8cb5-5042b74f1f78)
+![OVERLAYS](https://github.com/user-attachments/assets/62d58872-6391-41a0-8e68-56eb2ccfcaf8)
 
 ## THEMES
 
@@ -45,11 +45,11 @@ To make it more comfortable and intuitive, you can choose by system and core how
 
 - ATC DMG THEME: applies to the SimpleMenu environment, applications and application previews.
 
-![DMG THEME](https://github.com/user-attachments/assets/30b0aea2-9c2f-4bd4-acac-946a22394642)
+![DMG THEME](https://github.com/user-attachments/assets/d4ac7034-6afc-4118-a306-3f76ec081cc4)
 
 - ATC COLOR THEME: applies only to the SimpleMenu environment. Applications and application previews will continue to maintain the DMG look.
 
-![COLOR THEME](https://github.com/user-attachments/assets/0f138a5d-2594-4643-a200-0a7861a8b728)
+![COLOR THEME](https://github.com/user-attachments/assets/a53fa853-0776-40a6-9da7-85bfac1db34f)
 
 ## CONTROLS & HOTKEYS
 
