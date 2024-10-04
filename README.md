@@ -51,7 +51,7 @@ To make it more comfortable and intuitive, you can choose by system and core how
 
 ![COLOR THEME](https://github.com/user-attachments/assets/0f138a5d-2594-4643-a200-0a7861a8b728)
 
-## CONTROLS
+## CONTROLS & HOTKEYS
 
 The controls in SimpleMenu and the RetroArch hotkeys are the same as those that come by default in Koriki. For more information about this, click [here](https://github.com/Rparadise-Team/Koriki/wiki/En:-03.-Controls-&-Settings) to go to the Koriki wiki.
 
