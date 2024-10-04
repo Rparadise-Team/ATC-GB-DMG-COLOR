@@ -13,7 +13,7 @@ Some original Koriki applications have been maintained, such as:
 - Screen Koriki: set Koriki's screen values.
 - Screen Stock: set Miyoo's stock screen values.
 - Wi-Fi.
-- GB-GBC Server/Client (possibility of playing 2 consoles as if they were connected via the link cable). It's Only for the ADHOC network. The consoles have to be next to each other (as if it were the link cable).
+- GB-GBC Server/Client (possibility of playing 2 consoles as if they were connected via the link cable). It's Only for the ADHOC network. The consoles have to be next to each other.
 
 ## SYSTEMS
 
