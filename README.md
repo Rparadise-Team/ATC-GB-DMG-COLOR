@@ -27,7 +27,7 @@ Below is the table of the systems configured in SimpleMenu with the paths where 
 
 ## SCRAPER VIEW
 
-Something new is the possibility of having 3 types of scrapes (box, cartridge and imagemix) and being able to switch between them through an App in the options menu called "Scraper View".
+Something new is the possibility of having 3 types of scrapes and being able to switch between them through an App in the options menu called "Scraper View".
 
 Inside the "Roms" folder there is another one called "Imgs" that contains the 3 folders where you have to place the scrapes (cart, cover and imagemix). The scrapes must be placed in their corresponding folder, with the same name as the game and in .png format.
 
