@@ -1,4 +1,4 @@
-![Logo README MD](https://github.com/user-attachments/assets/2d3dfb97-5fec-4282-8c5e-6f31e0998e62)
+![Logo README MD](https://github.com/user-attachments/assets/aa06edfd-4b77-4e8a-9831-dfd6cba43caa)
 
 Rparadise presents ATC DMG COLOR, a highly personalized version of the Koriki system so that you have an experience as close as possible to having a GAME BOY / GAME BOY COLOR in your hands.
 
